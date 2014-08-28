@@ -1,4 +1,4 @@
-<? $home = $pages->get('/');?>
+<?php $home = $pages->get('/');?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
